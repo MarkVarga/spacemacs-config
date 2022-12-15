@@ -3,6 +3,6 @@
 - npm install -g vscode-html-languageserver-bin
 - npm i -g vscode-css-languageserver-bin
 - npm -g install eslint
-Optional
+# Optional
 - npm install -g js-beautify
 - npm install -g prettier
